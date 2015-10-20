@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TeaApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_green_tea">GreenTea</string>
+    <string name="title_activity_black_tea">BlackTea</string>
+    <string name="title_activity_oolong_tea">OolongTea</string>
+
+    <string name="main_menu">Main Menu</string>
+    <string name="green_menu">Green Tea</string>
+    <string name="black_menu">Black Tea</string>
+    <string name="title_activity_tea_category">TeaCategoryActivity</string>
+    <string name="title_tea_drink">TeaActivity</string>
+    <string-array name="options">
+        <item>Green Tea</item>
+        <item>Black Tea</item>
+        <item>Oolong Tea</item>
+    </string-array>
+    <string name="title_activity_tea">Tea</string>
+</resources>
